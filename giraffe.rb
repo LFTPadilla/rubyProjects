@@ -21,6 +21,3 @@ age = 33
 double = 3.2
 isMale = true
 flaws = nil
-
-
- 
